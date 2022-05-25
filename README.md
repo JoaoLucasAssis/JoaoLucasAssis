@@ -5,8 +5,3 @@
 
 - 📫 Esse é o meu email: **joaolucasdeassis.o@gmail.com**.
 
-<br/>
-<br/>
-
-   <a href="https://github.com/JoaoLucasAssis/github-readme-stats"><img alt="JoaoLucas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasAssis&theme=default&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117"/></a>
-  <a href="https://github.com/JoaoLucasAssis/github-readme-stats"><img alt="JoaoLucas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasAssis&theme=default&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117"/></a>
