@@ -1,4 +1,4 @@
-<img src="images/computador.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/JoaoLucasAssis/JoaoLucasAssis/blob/main/computador.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h1 align="left" style="border: none;">Olá,<br>Eu sou o João Lucas !</h1>
 
