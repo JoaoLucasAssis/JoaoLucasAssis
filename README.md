@@ -17,5 +17,5 @@
 
   <p>UVV - Ciências da Computação [3/10]</p>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasAssis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasAssis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
