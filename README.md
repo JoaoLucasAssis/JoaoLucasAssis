@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<img src="https://github.com/JoaoLucasAssis/JoaoLucasAssis/blob/main/computador.png" width="450px" height="450px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/JoaoLucasAssis/JoaoLucasAssis/blob/main/computador.png" width="400px" height="400px" align="right" alt="Computador iuriCode">
 
 <div align="left">
   <h1>Olá,<br>Eu sou o João Lucas !</h1>
