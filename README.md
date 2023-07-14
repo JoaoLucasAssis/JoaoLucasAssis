@@ -5,7 +5,7 @@
 <section width="100%">
   <h1>About me !</h1>
   
-  * I’m currently graduating in Computer Science [4/10]
+  * I’m currently graduating in Computer Science [4/8]
 
   * I’m currently learning everything about Frontend and Backend technologies
 
