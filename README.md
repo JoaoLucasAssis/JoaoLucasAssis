@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/JoaoLucasAssis/JoaoLucasAssis/blob/main/Banner%20Linkedin.png" width="100%" alt="Banner com infomações de contato">
+<img src="https://github.com/JoaoLucasAssis/JoaoLucasAssis/blob/main/FUNDO%20LINKEDIN%20PESSOAL.png" width="100%" alt="Banner com infomações de contato">
 
 <!-- About me Section -->
 <section width="100%">
