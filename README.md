@@ -17,15 +17,15 @@
 <!-- My Stats Section-->
 <section width="100%">
   <h1>My GitHub Stats !</h1>
-  
-  <img 
+
+  <!--<img 
+      width="49%"
+      height="210px"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoLucasAssis&locale=pt-br&theme=bear&hide_border=false"/>-->
+  <img
       width="49%" 
       height="200px"
       src="https://github-readme-stats.vercel.app/api?username=JoaoLucasAssis&show_icons=true&locale=pt-br&count_private=true&hide_rank=true&theme=bear"/>
-  <img 
-      width="49%"
-      height="210px"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoLucasAssis&locale=pt-br&theme=bear&hide_border=false"/>
 <section >
 
 <!-- Connect Section -->
